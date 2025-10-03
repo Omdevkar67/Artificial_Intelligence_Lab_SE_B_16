@@ -48,4 +48,3 @@ def a_star(graph, heuristics, start, goal):
 # Run A*
 start, goal = 'S', 'G'
 a_star(graph, heuristics, start, goal)
-
